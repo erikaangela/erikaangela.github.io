@@ -1,6 +1,6 @@
 # Hello - this is my old portfolio site.
 
-For my updated portfolio site - please visit this [link](https://erikamanalastas.netlify.app/). For the new repo, click [here](https://github.com/erikaangela/portfolio-site).
+For my updated portfolio site - please visit this [link](https://erikamanalastas.netlify.app/). For the new repo, click [here](https://github.com/erikaangela/portfolio-site).<br>
 Thanks!
 
 ### Credit
